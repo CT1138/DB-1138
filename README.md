@@ -1,4 +1,5 @@
 # DB-1138
+(Discord Bot 1138)
  it's a bot. with code. that turns on.
 
     Please configure the bot in config.js before starting the bot.
