@@ -5,7 +5,7 @@ import {
 
 client.login(botToken);
 client.on('ready', async () => {
-  client.user.setActivity(require('./config.js'), {type: require('./config.js').statusType});
+  client.user.setActivity(require('./config.js').status, {type: require('./config.js').statusType});
   console.log('bot online!')
 })
 
