@@ -1,0 +1,31 @@
+{
+  "name": "db1138",
+  "version": "9.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^10.15.0"
+  },
+  "scripts": {
+    "start": "cd node_modules/nodemon/bin/nodemon.js index.js"
+  },
+  "author": "6four10",
+  "license": "ISC",
+  "dependencies": {
+    "avconv": "^3.1.0",
+    "config": "^3.3.6",
+    "discord-anti-spam": "^2.5.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "esm": "^3.2.25",
+    "ffmpeg": "^0.0.4",
+    "js-yaml": "^4.1.0",
+    "mysql": "^2.18.1",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "nodeVersion": "12.16.3"
+}
