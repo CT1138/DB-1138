@@ -3,7 +3,9 @@
  it's a bot. with code. that turns on.
 
     Please configure the bot in config.js before starting the bot.
+    You need to install Node.JS to actually run the bot, install it here: https://nodejs.org/en/
     The bot requires a MySQL database, when you get one, import the SQL files in the database backup directory. 
+    To start the bot, open up a terminal in the bot's root directory and type: "node ./index.js"
 
 # Adding new commands
 
