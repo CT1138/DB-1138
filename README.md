@@ -29,4 +29,4 @@ Then create a file named <command name>.js in the commands directory and put the
 
 Contact me on discord: RC-1138#0001
 
-Start a new issue on the issues tab in this repl (idk what it's called lol)
+Start a new issue on the issues tab in this repo (idk what it's called lol)
