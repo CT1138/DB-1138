@@ -65,7 +65,7 @@ try {
 
            case "unban":
                if (require('./config.js').staffRoleID) {
-                   variable.client.commands.get('unban').execute(variable.discord, variable.embedcolor, message, args)
+                   variable.client.commands.get('unban').execute(variable.discord, variable.embedcolor, message, args, variable.con)
                } else {
                    message.channel.send(cmdDenied)
                }

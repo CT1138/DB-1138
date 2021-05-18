@@ -1,7 +1,7 @@
 module.exports = {
     name: 'unban',
     description: "unban",
-    async execute(discord, embedcolor, message, args) {
+    async execute(discord, embedcolor, message, args, con) {
 
         if(!args[1]) {message.channel.send(`Incorrect usage.\n**Usage:** ${require('../config.js').prefix}unban @<user> [reason ...]`); return;}
 
