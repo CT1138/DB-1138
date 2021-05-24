@@ -7,7 +7,7 @@
     "node": "^10.15.0"
   },
   "scripts": {
-    "start": "cd node_modules/nodemon/bin/nodemon.js index.js"
+    "start": "nodemon ./index.js"
   },
   "author": "6four10",
   "license": "ISC",

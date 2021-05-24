@@ -2,10 +2,18 @@
 (Discord Bot 1138)
  it's a bot. with code. that turns on.
 
-    Please configure the bot in config.js before starting the bot.
-    You need to install Node.JS to actually run the bot, install it here: https://nodejs.org/en/
-    The bot requires a MySQL database, when you get one, import the SQL files in the database backup directory. 
-    To start the bot, open up a terminal in the bot's root directory and type: "node ./index.js"
+# Requirements
+
+    Node.js; https://nodejs.org/en/
+    Mysql Database; https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_MySQL.htm
+    Discord Bot Account; https://discordpy.readthedocs.io/en/latest/discord.html ( ik this guide is for discord.py, not discord.js, but it's the same process so just use this )
+    Presence Intent and Server Members Intent enabled on the Discord Dev Portal  
+
+# How to start the bot
+
+    
+    Open a command line instance in the root directory of the bots code, then run the command "npm i nodemon -g" (only need to do this once, this installs nodemon globally)
+    Open run.bat
 
 # Adding new commands
 

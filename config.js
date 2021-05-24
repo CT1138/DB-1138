@@ -24,7 +24,7 @@ module.exports = {
     //Finding channel ID's is similar to role ID's
     //If you already have dev mode enabled, right click the channel on the side-bar and click "Copy ID"
     "modLogsID": "",
-    "counterChannel": "",
+    "counterChannelID": "",
     "botCommandsChannelID": "",
     "joinMessageChannelID": "",
     "suggestionsChannelID": "",

@@ -1,7 +1,7 @@
 import {client, con} from './constants.js'
 
 client.on(`message`, async message => {
-    if (message.channel.id === require('./config.js').counterChannel) {
+    if (message.channel.id === require('./config.js').counterChannelID) {
         con.query(`SELECT * FROM counter`, (err, rows) => {
             if(err) throw err;
             let number = rows[0].count;
