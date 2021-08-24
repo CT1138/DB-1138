@@ -1,7 +1,7 @@
 # Requirements
 
     Node.js; https://nodejs.org/en/
-    Mysql Database; https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_MySQL.htm
+    Mysql Database; https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_MySQL.html
     Discord Bot Account; https://discordpy.readthedocs.io/en/latest/discord.html ( ik this guide is for discord.py, not discord.js, but it's the same process so just use this )
     Presence Intent and Server Members Intent enabled on the Discord Dev Portal  
 
