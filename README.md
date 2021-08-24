@@ -1,7 +1,3 @@
-# DB-1138
-(Discord Bot 1138)
- it's a bot. with code. that turns on.
-
 # Requirements
 
     Node.js; https://nodejs.org/en/
@@ -9,9 +5,8 @@
     Discord Bot Account; https://discordpy.readthedocs.io/en/latest/discord.html ( ik this guide is for discord.py, not discord.js, but it's the same process so just use this )
     Presence Intent and Server Members Intent enabled on the Discord Dev Portal  
 
-# How to start the bot
+# Starting the bot
 
-    
     Open a command line instance in the root directory of the bots code, then run the command "npm i nodemon -g" (only need to do this once, this installs nodemon globally)
     Open run.bat
 
@@ -35,6 +30,6 @@ Then create a file named <command name>.js in the commands directory and put the
     
 # If there are issues:
 
-Contact me on discord: RC-1138#0001
+Contact me on discord: CT-7567#0001
 
 Start a new issue on the issues tab in this repo (idk what it's called lol)
